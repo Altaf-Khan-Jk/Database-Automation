@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+psutil
+mysql-connector-python
+sqlalchemy
+reportlab
